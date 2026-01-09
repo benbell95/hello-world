@@ -1,5 +1,5 @@
 ### Test
 
-print("hello world")
+message <- "hello AMAZING world!"
 
-print("hello AMAZING world!")
+print(message)

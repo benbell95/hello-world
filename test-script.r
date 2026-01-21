@@ -6,7 +6,7 @@ print("no")
 ###  Print more stuff
 
 print("hello again")
-# Great coding well done
+#  Bad coding no no no
 
 ### Testing git with Rstudio
 
